@@ -22,4 +22,4 @@ I currently work with **PHP**, **Laravel**, and **MySQL**, building **efficient,
 
 ### 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo%20Mathias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemcosta)
-[![Email](https://img.shields.io/badge/Email-cemcosta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemcosta@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cemcosta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemcosta08@gmail.com)
