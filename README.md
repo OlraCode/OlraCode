@@ -15,7 +15,6 @@ I currently work with **PHP**, **Laravel**, and **MySQL**, building **efficient,
 ---
 
 ### 📈 GitHub Stats
-![Carlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlraCode&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlraCode&layout=compact&theme=radical)
 
 ---
